@@ -1,0 +1,4 @@
+E:\Projects\CleanCodeInCSharp\CleanCodeInDotNet\CleanCodeInDotNet\obj\Debug\net8.0\CleanCodeInDotNet.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\CleanCodeInCSharp\CleanCodeInDotNet\CleanCodeInDotNet\obj\Debug\net8.0\CleanCodeInDotNet.AssemblyInfoInputs.cache
+E:\Projects\CleanCodeInCSharp\CleanCodeInDotNet\CleanCodeInDotNet\obj\Debug\net8.0\CleanCodeInDotNet.AssemblyInfo.cs
+E:\Projects\CleanCodeInCSharp\CleanCodeInDotNet\CleanCodeInDotNet\obj\Debug\net8.0\CleanCodeInDotNet.csproj.CoreCompileInputs.cache
